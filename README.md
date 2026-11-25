@@ -6,7 +6,7 @@
 
 A short rant about the office printer, the one machine in the building that has a single job and still manages to ruin your afternoon. Written after the third time it ate page two and then dumped the whole job at 4:59.
 
-> The office printer has exactly one job and it still can't do it. It eats page two, blinks an error code that means nothing to anyone alive, then cheerfully prints all twelve pages at 4:59 pm, right as I'm walking out the door. I don't want a smarter printer. I want one that stops pretending and admits it's a paperweight with a power cord.
+> The office printer has exactly one job and it still can't do it. It eats page two, blinks an error code that means nothing to anyone alive, then spits out all twelve pages at 4:59 pm, right as I'm walking out the door. I don't want a smarter printer. I want one that stops pretending and admits it's a paperweight that plugs in.
 
 ## Run it
 

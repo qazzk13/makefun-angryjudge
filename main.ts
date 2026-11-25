@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const rant =
-  "The office printer has exactly one job and it still can't do it. It eats page two, blinks an error code that means nothing to anyone alive, then cheerfully prints all twelve pages at 4:59 pm, right as I'm walking out the door. I don't want a smarter printer. I want one that stops pretending and admits it's a paperweight with a power cord.";
+  "The office printer has exactly one job and it still can't do it. It eats page two, blinks an error code that means nothing to anyone alive, then spits out all twelve pages at 4:59 pm, right as I'm walking out the door. I don't want a smarter printer. I want one that stops pretending and admits it's a paperweight that plugs in.";
 
 if (rant.length < 1 || rant.length > 400) {
   throw new Error(`rant must be 1-400 characters, got ${rant.length}`);
